@@ -30,13 +30,13 @@
         <!-- Navigation Arrows -->
         <button
           @click="scrollLeft"
-          class="absolute md:hidden left-0 top-1/2 transform -translate-y-1/2 bg-white px-2 py-1 rounded-full shadow-lg text-gray-700 hover:bg-gray-200"
+          class="absolute md:hidden left-0 top-1/2 transform -translate-y-1/2 bg-[#E1F4CB] px-2 py-1 rounded-full shadow-lg text-gray-700 hover:bg-gray-200"
         >
           ←
         </button>
         <button
           @click="scrollRight"
-          class="absolute md:hidden right-0 top-1/2 transform -translate-y-1/2 bg-white px-2 py-1 rounded-full shadow-lg text-gray-700 hover:bg-gray-200"
+          class="absolute md:hidden right-0 top-1/2 transform -translate-y-1/2 bg-[#E1F4CB] px-2 py-1 rounded-full shadow-lg text-gray-700 hover:bg-gray-200"
         >
           →
         </button>
