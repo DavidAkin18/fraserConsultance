@@ -1,5 +1,5 @@
 <template>
-  <section class="px-4 md:px-16 py-6 bg-gray-100">
+  <section class="px-4 md:px-16 py-14 lg:py-28  bg-gray-100">
     <div class="container mx-auto text-center">
       <h1 class="text-2xl font-light">Fraser Consulting</h1>
       <h2 class="text-4xl font-bold">Latest News</h2>

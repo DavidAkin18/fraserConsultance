@@ -1,12 +1,12 @@
 <template>
-  <section id="about" class="py-20 bg-gradient-to-b from-[#1B3228] to-[#243C34] text-white">
+  <section id="about" class="py-14 lg:py-28  bg-gradient-to-b from-[#1B3228] to-[#243C34] text-white">
     <div class="container mx-auto px-4 md:px-12">
       <!-- Header Section -->
       <h2 class="text-4xl font-extrabold text-center mb-12">About Fraser Consulting</h2>
 
       <div class="flex flex-col md:flex-row items-center md:items-start gap-12">
         <!-- Left Section -->
-        <div class="md:w-1/2 text-left bg-[#283E35] p-8 rounded-lg shadow-lg">
+        <div class="md:w-1/2 border border-[#F1BF98] text-left p-8 rounded-lg shadow-lg">
           <p class="text-xl leading-loose font-semibold mb-6">
             <strong>Fraser Consulting</strong> is a dynamic and experienced firm dedicated to providing exceptional solutions across various industries. With a strong foundation in professionalism, integrity, and strategic thinking, we are committed to delivering exceptional results for our clients.
           </p>
@@ -21,8 +21,8 @@
         <!-- Right Section -->
         <div class="md:w-1/2 flex flex-col gap-8">
           <!-- Specializations Box -->
-          <div class="p-6 bg-[#F1BF98] rounded-lg shadow-lg hover:shadow-xl transition-shadow duration-300">
-            <h3 class="text-2xl font-semibold text-[#1B3228] mb-4">Our Specializations</h3>
+          <div class="p-6  rounded-lg border border-[#F1BF98] shadow-lg hover:shadow-xl transition-shadow duration-300">
+            <h3 class="text-2xl font-semibold text-[#FFFFFF] mb-4">Our Specializations</h3>
             <ul class="text-lg leading-relaxed space-y-4 text-left">
               <li class="flex items-center gap-3">
                 <span class="text-[#1B3228] text-xl">📈</span> International Consulting
@@ -46,8 +46,8 @@
           </div>
 
           <!-- Industries Box -->
-          <div class="p-6 bg-[#F1BF98] rounded-lg shadow-lg hover:shadow-xl transition-shadow duration-300">
-            <h3 class="text-2xl font-semibold text-[#1B3228] mb-4">Industries We Serve</h3>
+          <div class="p-6  rounded-lg border border-[#F1BF98] shadow-xl hover:shadow-xl transition-shadow duration-300">
+            <h3 class="text-2xl font-semibold text-[#FFFFFF] mb-4">Industries We Serve</h3>
             <div class="grid grid-cols-2 gap-4 text-left">
               <p class="flex items-center gap-3 hover:text-[#717568] transition-colors">
                 <span class="text-[#1B3228] text-xl">🛢️</span> Oil & Gas

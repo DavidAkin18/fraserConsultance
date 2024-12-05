@@ -1,5 +1,5 @@
 <template>
-  <section id="sectors" class="px-4 md:px-16 py-6">
+  <section id="sectors" class="px-4 md:px-16 py-14 lg:py-28 ">
     <div class="container mx-auto">
       <h2 class="text-3xl font-bold text-center mb-8">
         What sectors of the economy do we serve?
@@ -51,7 +51,7 @@
         <!-- Dot Indicators -->
         
       </div>
-      <div class="flex  justify-center mt-4">
+      <div class="flex lg:hidden  justify-center mt-4">
           <span
             v-for="(sector, index) in sectors"
             :key="index"

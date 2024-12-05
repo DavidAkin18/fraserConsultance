@@ -1,5 +1,5 @@
 <template>
-    <section class="relative bg-cover bg-center w-full min-h-[500px]  px-4 md:px-16 py-6" style="background-image: url('https://media.istockphoto.com/id/1365436734/photo/group-of-business-persons-talking-in-the-office.jpg?s=612x612&w=0&k=20&c=HMfrS47_CcQK8UTUegQNKlzmoenMLTPdm17uuJoNUw4=');">
+    <section class="relative bg-cover bg-center w-full min-h-[500px]  px-4 md:px-16 py-14 lg:py-28 " style="background-image: url('https://media.istockphoto.com/id/1365436734/photo/group-of-business-persons-talking-in-the-office.jpg?s=612x612&w=0&k=20&c=HMfrS47_CcQK8UTUegQNKlzmoenMLTPdm17uuJoNUw4=');">
       <!-- Overlay for better text readability -->
       <div class="absolute inset-0 bg-[#1B3228] opacity-60 backdrop-blur-sm"></div>
   

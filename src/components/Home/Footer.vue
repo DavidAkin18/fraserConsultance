@@ -1,5 +1,5 @@
 <template>
-  <footer class="bg-[#1B3228] text-white px-4 md:px-16 py-6">
+  <footer class="bg-[#1B3228] text-white px-4 md:px-16 py-14 lg:py-28 ">
     <div class="container mx-auto px-4">
       <div class="flex flex-col md:flex-row justify-between items-start">
         <!-- Left Column -->

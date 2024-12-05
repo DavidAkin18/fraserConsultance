@@ -1,5 +1,5 @@
 <template>
-  <section id="services" class="px-4 md:px-16 py-6 bg-gray-100">
+  <section id="services" class="px-4 md:px-16 py-14 lg:py-28  bg-gray-100">
     <div class="container mx-auto text-center">
       <h2 class="text-3xl font-bold">What services do we offer for your business?</h2>
       <p class="text-gray-600 mb-10">
