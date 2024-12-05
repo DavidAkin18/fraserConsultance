@@ -1,5 +1,5 @@
 <template>
-  <footer class="bg-[#657B65] text-white px-4 md:px-16 py-6">
+  <footer class="bg-[#1B3228] text-white px-4 md:px-16 py-6">
     <div class="container mx-auto px-4">
       <div class="flex flex-col md:flex-row justify-between items-start">
         <!-- Left Column -->
@@ -42,29 +42,27 @@
             <h3 class="text-lg font-bold mb-4">Useful Links</h3>
             <ul class="space-y-2">
               <li><a href="#" class="hover:underline text-base">Home</a></li>
-              <li><a href="#" class="hover:underline text-base">About</a></li>
-              <li><a href="#" class="hover:underline text-base">Blog</a></li>
-              <li><a href="#" class="hover:underline text-base">Contact</a></li>
-              <li><a href="#" class="hover:underline text-base">FAQ</a></li>
+              <li><a href="#" class="hover:underline text-base">Services</a></li>
+              <li><a href="#" class="hover:underline text-base">News</a></li>
             </ul>
           </div>
 
           <div class="flex flex-col">   
             <h3 class="text-lg font-bold">Address</h3>
             <p class="text-base">
-              <a href="https://www.google.com/maps?q=8592+Fairground+St,+Tallahassee,+FL+32303" target="_blank" class="text-blue-500 hover:underline">8592 Fairground St, Tallahassee, FL 32303</a>
+              <a href="https://www.google.com/maps?q=8592+Fairground+St,+Tallahassee,+FL+32303" target="_blank" class="text-gray-300 hover:text-white">8592 Fairground St, Tallahassee, FL 32303</a>
             </p>
             <h3 class="text-lg font-bold mt-4 mb-2">Email</h3>
             <p class="text-base">
-              <a href="mailto:fraserconsult2000@qmail.com" class="text-blue-500 hover:underline">fraserconsult2000@qmail.com</a>
+              <a href="mailto:fraserconsult2000@qmail.com" class="text-gray-300 hover:underline">fraserconsult2000@qmail.com</a>
             </p>
             <h3 class="text-lg font-bold mt-4 mb-2">Phone</h3>
             <p class="text-base">
-              <a href="tel:+18632673634" class="text-blue-500 hover:underline">(+234) 802-291-2562</a>, 
-              <a href="tel:+2348088811881" class="text-blue-500 hover:underline">(+234) 808-881-1881</a>,
-              <a href="tel:+2348050515555" class="text-blue-500 hover:underline">(+234) 805-051-5555</a>,
-              <a href="tel:+2349094666000" class="text-blue-500 hover:underline">(+234) 909-466-6000</a>
-            </p>/Users/David/Downloads/fclogo.png
+              <a href="tel:+18632673634" class="text-gray-300 hover:underline">(+234) 802-291-2562</a>, 
+              <a href="tel:+2348088811881" class="text-gray-300 hover:underline">(+234) 808-881-1881</a>,
+              <a href="tel:+2348050515555" class="text-gray-300 hover:underline">(+234) 805-051-5555</a>,
+              <a href="tel:+2349094666000" class="text-gray-300 hover:underline">(+234) 909-466-6000</a>
+            </p>
           </div>
         </div>
       </div>
@@ -84,7 +82,7 @@ export default {
 <style scoped>
 /* Footer Styles */
 footer {
-  background-color: #657B65;
+  /* background-color: #657B65; */
   color: white;
 }
 
@@ -93,7 +91,7 @@ footer a {
 }
 
 footer a:hover {
-  color: #1D4ED8; /* Blue color for hover effect */
+  color: #FFFFFF; /* Blue color for hover effect */
 }
 
 /* Social Icons */

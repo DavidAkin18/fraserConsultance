@@ -8,7 +8,7 @@
       <div class="grid grid-cols-1 md:grid-cols-3 gap-6 mt-10">
         
         <!-- Service Card 1: International Consulting -->
-        <div class="p-6 bg-white hover:bg-[#1B3228] hover:text-white shadow rounded">
+        <div class="p-6 bg-white hover:bg-[#F1BF98] hover:text-white shadow rounded">
           <div class="flex items-center mb-4">
             <svg 
               class="w-10 h-10 text-[#C6EBBE]" 
@@ -30,7 +30,7 @@
         </div>
         
         <!-- Service Card 2: Contract & Payment Facilitation -->
-        <div class="p-6 bg-white hover:bg-[#1B3228] hover:text-white shadow rounded">
+        <div class="p-6 bg-white hover:bg-[#E1FACB]  shadow rounded">
           <div class="flex items-center mb-4">
             <svg 
               class="w-10 h-10 text-[#C6EBBE]" 
@@ -52,7 +52,7 @@
         </div>
         
         <!-- Service Card 3: Claims Expertise -->
-        <div class="p-6 bg-white hover:bg-[#1B3228] hover:text-white shadow rounded">
+        <div class="p-6 bg-white hover:bg-[#F1BF98] hover:text-white shadow rounded">
           <div class="flex items-center mb-4">
             <svg 
               class="w-10 h-10 text-[#C6EBBE]" 
@@ -74,7 +74,7 @@
         </div>
         
         <!-- Service Card 4: Construction Economics & Estimation -->
-        <div class="p-6 bg-white hover:bg-[#1B3228] hover:text-white shadow rounded">
+        <div class="p-6 bg-white hover:bg-[#E1FACB]  shadow rounded">
           <div class="flex items-center mb-4">
             <svg 
               class="w-10 h-10 text-[#C6EBBE]" 
@@ -96,7 +96,7 @@
         </div>
         
         <!-- Service Card 5: Contract Administration -->
-        <div class="p-6 bg-white hover:bg-[#1B3228] hover:text-white shadow rounded">
+        <div class="p-6 bg-white hover:bg-[#F1BF98] hover:text-white shadow rounded">
           <div class="flex items-center mb-4">
             <svg 
               class="w-10 h-10 text-[#C6EBBE]" 
@@ -118,7 +118,7 @@
         </div>
         
         <!-- Service Card 6: Project Management -->
-        <div class="p-6 bg-white hover:bg-[#1B3228] hover:text-white shadow rounded">
+        <div class="p-6 bg-white hover:bg-[#E1FACB]  shadow rounded">
           <div class="flex items-center mb-4">
             <svg 
               class="w-10 h-10 text-[#C6EBBE]" 

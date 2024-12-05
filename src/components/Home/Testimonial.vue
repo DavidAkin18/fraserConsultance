@@ -1,5 +1,5 @@
 <template>
-  <section class="bg-[#6A6E7A] px-4 md:px-16 py-6">
+  <section class="bg-[#E1F4CB] px-4 md:px-16 py-6">
     <div class="container mx-auto">
       <h2 class="text-3xl font-bold text-center text-[#ffffff] mb-8">Testimonial</h2>
       <div class="relative">

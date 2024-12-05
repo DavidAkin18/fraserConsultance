@@ -15,7 +15,7 @@
         <ul class="hidden md:flex space-x-6">
           <li><a href="#home" class="hover:text-gray-400 hover:border-b transition">Home</a></li>
           <li><a href="#services" class="hover:text-gray-400 hover:border-b transition">Services</a></li>
-          <li><a href="#about" class="hover:text-gray-400 hover:border-b transition">About</a></li>
+          <li><a href="#about" class="hover:text-gray-400 hover:border-b transition">News</a></li>
           <li><a href="#contact" class="hover:text-gray-400 hover:border-b transition">Contact</a></li>
         </ul>
   

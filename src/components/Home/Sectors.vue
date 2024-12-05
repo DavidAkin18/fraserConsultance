@@ -6,10 +6,10 @@
       </h2>
 
       <!-- Mobile Carousel -->
-      <div class="relative mt-10 overflow-hidden lg:hidden">
+      <div class="relative mt-10 overflow-scroll lg:hidden">
         <!-- Carousel Container -->
         <div
-          class="flex transition-transform duration-500 ease-in-out"
+          class="flex gap-1 transition-transform duration-500 ease-in-out"
           :style="{ transform: `translateX(-${currentIndex * 100}%)` }"
         >
           <div
@@ -35,21 +35,23 @@
         </div>
 
         <!-- Navigation Buttons -->
-        <button
+        <!-- <button
           @click="prev"
-          class="absolute md:hidden left-0 top-1/2 transform -translate-y-1/2 bg-white px-1 py-0.5 rounded-full shadow-lg text-gray-700 hover:bg-gray-200"
+          class="absolute md:hidden left-0 top-1/2 transform -translate-y-1/2 bg-[#F1BF98] px-1 py-0.5 rounded-full shadow-lg text-gray-700 hover:bg-gray-200"
         >
         ←
         </button>
         <button
           @click="next"
-          class="absolute md:hidden right-0 top-1/2 transform -translate-y-1/2 bg-white px-1 py-0.5  rounded-full shadow-lg text-gray-700 hover:bg-gray-200"
+          class="absolute md:hidden right-0 top-1/2 transform -translate-y-1/2  bg-[#F1BF98] px-1 py-0.5  rounded-full shadow-lg text-gray-700 hover:bg-gray-200"
         >
         →
-        </button>
+        </button> -->
 
         <!-- Dot Indicators -->
-        <div class="flex justify-center mt-4">
+        
+      </div>
+      <div class="flex  justify-center mt-4">
           <span
             v-for="(sector, index) in sectors"
             :key="index"
@@ -69,10 +71,9 @@
             ></i>
           </span>
         </div>
-      </div>
 
       <!-- Larger Screen Carousel -->
-      <div class="relative gap-2 bg-white mt-10 overflow-hidden hidden lg:block">
+      <div class="relative gap-2 bg-white mt-10 overflow-scroll hidden lg:block">
         <!-- Carousel Container -->
         <div
           class="flex transition-transform duration-500 ease-in-out"
@@ -101,18 +102,18 @@
         </div>
 
         <!-- Navigation Buttons -->
-        <button
+        <!-- <button
           @click="prevDesktop"
-          class="absolute left-0 top-1/2 -translate-y-1/2 text-white bg-[#1B3228] hover:bg-[#1B3228]/80 text-4xl px-4 py-2 rounded-full shadow-lg"
+          class="absolute left-0 top-1/2 -translate-y-1/2 text-white bg-[#F1BF98] hover:bg-[#1B3228]/80 text-4xl px-4 py-2 rounded-full shadow-lg"
         >
           ‹
         </button>
         <button
           @click="nextDesktop"
-          class="absolute right-0 top-1/2 -translate-y-1/2 text-white bg-[#1B3228] hover:bg-[#1B3228]/80 text-4xl px-4 py-2 rounded-full shadow-lg"
+          class="absolute right-0 top-1/2 -translate-y-1/2 text-white bg-[#F1BF98] hover:bg-[#1B3228]/80 text-4xl px-4 py-2 rounded-full shadow-lg"
         >
           ›
-        </button>
+        </button> -->
       </div>
     </div>
   </section>
