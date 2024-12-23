@@ -1,5 +1,6 @@
 <template>
-  <index/>
+  <!-- <index/> -->
+   <div>hi</div>
 </template>
 
 <script>
