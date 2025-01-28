@@ -8,7 +8,7 @@
         <!-- News Item 1 -->
         <a href="#" class="bg-white rounded-lg shadow-md p-6 hover:shadow-lg transition-shadow duration-300">
           <img 
-            src="https://via.placeholder.com/400x200" 
+            src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrI9hSB66LK1mMHBoDldPNXZ8FgO3GZezVHQ&s" 
             alt="Business Agility" 
             class="w-full h-48 object-cover rounded-lg mb-4" 
           />
@@ -21,7 +21,7 @@
         <!-- News Item 2 -->
         <a href="#" class="bg-white rounded-lg shadow-md p-6 hover:shadow-lg transition-shadow duration-300">
           <img 
-            src="https://via.placeholder.com/400x200" 
+            src="https://cdn.punchng.com/wp-content/uploads/2023/06/16145643/press.jpg" 
             alt="Protecting Profits" 
             class="w-full h-48 object-cover rounded-lg mb-4" 
           />
@@ -34,7 +34,7 @@
         <!-- News Item 3 -->
         <a href="#" class="bg-white rounded-lg shadow-md p-6 hover:shadow-lg transition-shadow duration-300">
           <img 
-            src="https://via.placeholder.com/400x200" 
+            src="https://www.channelstv.com/wp-content/uploads/2024/08/tinubu-cng-2.jpg" 
             alt="Cost Efficiency" 
             class="w-full h-48 object-cover rounded-lg mb-4" 
           />
